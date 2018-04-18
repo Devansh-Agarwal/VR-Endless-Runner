@@ -8,7 +8,7 @@ There are 4 types of bridge prefabs which spawn in a random order, taking care t
 Only 7 pieces of bridge are present at any give time to prevent memory overflow.
 
 Screenshots
-![](/screenShot1.png)
-![](/screenShot3.png)
-![](/screenShot2.png)
-![](/screenShot4.png)
+![](/Screenshot1.png)
+![](/Screenshot3.png)
+![](/Screenshot2.png)
+![](/Screenshot4.png)
